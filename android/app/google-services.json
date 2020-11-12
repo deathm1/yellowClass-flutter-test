@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "614377873562",
+    "firebase_url": "https://yellowclasstest.firebaseio.com",
+    "project_id": "yellowclasstest",
+    "storage_bucket": "yellowclasstest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614377873562:android:87aa950f1017371b6bff23",
+        "android_client_info": {
+          "package_name": "com.harshHandoo.yellow_class_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614377873562-bct2ef5et9rg4rau2lo1rqfr0p49vmtf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harshHandoo.yellow_class_app",
+            "certificate_hash": "4d88dfa94b9da20b1940786000e2abfa2a9f5220"
+          }
+        },
+        {
+          "client_id": "614377873562-8vk20ss7h0ipolbv3m4bugijtteadukg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-yey5hU8rq7wHlABvH8JIP5PRFQ1JJLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614377873562-8vk20ss7h0ipolbv3m4bugijtteadukg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
